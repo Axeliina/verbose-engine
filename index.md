@@ -17,16 +17,16 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 2-1 Headers
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header 
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header 
 
 2-2
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
 
@@ -40,13 +40,14 @@ Here's some words about the book _One Hundred Years..._.
 
 3-3
 
-####The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](www.bbc.com/news)
 
 3-4
 
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
+
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
